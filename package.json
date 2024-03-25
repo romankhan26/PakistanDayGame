@@ -1,0 +1,21 @@
+{
+  "name": "rk26-pakistanday-game",
+  "version": "1.0.3",
+  "description": "In this game there are some basic questions about pakistan history and you will get one point on answering each question after all questions you will get sum of point that will tell whether you won the game  or not",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  }
+}
